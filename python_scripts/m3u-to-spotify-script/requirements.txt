@@ -1,0 +1,4 @@
+spotipy
+eyed3
+termcolor
+mutagen

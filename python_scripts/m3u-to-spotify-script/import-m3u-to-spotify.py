@@ -10,7 +10,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from difflib import SequenceMatcher
 from termcolor import colored
-from mutagen import File  # Новая библиотека для чтения тегов из разных форматов
+from mutagen import File
 
 def parse_arguments():
     p = argparse.ArgumentParser(description='A script to import a m3u playlist into Spotify')
