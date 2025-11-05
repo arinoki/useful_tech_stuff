@@ -201,7 +201,7 @@ def create_playlist(group_key, audio_files, playlists_dir):
     audio_files = sorted(list(audio_files), key=lambda x: os.path.basename(x))
 
     # Split into chunks of 500
-    chunk_size = 500
+    chunk_size = 10000
     for i in range(0, len(audio_files), chunk_size):
         chunk = audio_files[i:i + chunk_size]
         part_num = f"_{i // chunk_size + 1}" if i > 0 else ""
