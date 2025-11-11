@@ -24,7 +24,7 @@ jobs:
           pip install requests
 
       - name: Run update script
-        run: python megav-configs/update_configs.py
+        run: python python_scripts/megav-configs/grov.app_parser.py
         working-directory: ${{ github.workspace }}
 
       - name: Commit and push changes
