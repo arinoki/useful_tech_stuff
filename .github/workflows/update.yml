@@ -23,6 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Install sing-box
+        run: |
+          curl -fsSL https://sing-box.app/install.sh | bash
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+
       - name: Run update script
         run: python grov.app_parser.py  # Запуск из подпапки
         working-directory: python_scripts/megav-configs  # Переход в папку перед запуском
