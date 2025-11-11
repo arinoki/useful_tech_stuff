@@ -1,0 +1,40 @@
+name: Update Megav Configs
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Раз в час (в 0 минут каждого часа по UTC)
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Для push
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run update script
+        run: python megav-configs/update_configs.py
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add python_scripts/megav-configs/megav.app.txt
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update megav.app.txt with latest VLESS configs [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
