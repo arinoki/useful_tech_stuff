@@ -24,7 +24,8 @@ jobs:
           pip install requests
 
       - name: Run update script
-        run: python python_scripts/megav-configs/grov.app_parser.py
+        run: python update_configs.py  # Запуск из подпапки
+        working-directory: python_scripts/megav-configs  # Переход в папку перед запуском
 
       - name: Commit and push changes
         run: |
