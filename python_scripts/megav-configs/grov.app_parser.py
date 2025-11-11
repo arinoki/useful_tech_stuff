@@ -1,7 +1,7 @@
 import requests
 import json
 
-base_url = "https://megav.app/servers-api/configs?page={page}&per_page=20&country=MD"
+base_url = "https://megav.app/servers-api/configs?page={page}&per_page=20"
 page = 1
 configs = {}  # {host:port: config_url} для уникальности
 
