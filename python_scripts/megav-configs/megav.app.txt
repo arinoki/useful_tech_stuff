@@ -1,373 +1,373 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.183:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959897452361280.arak-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.94:8880?security=&type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&path=/#🇱🇻 LV Riga - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.134:80?host=pqh26v4.ipforvetra.shop&sni=pqh26v4.ipforvetra.shop&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180050754915.birjand-drc-tusabl.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://40aead58-e990-4c9c-97bb-5846b5c8a9b7@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE Nuremberg - megav.app
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?encryption=none&security=tls&sni=nkang2replace.airlineshoma.com&type=ws&path=%2F#🇸🇪 SE Spånga - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221945483.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852349799.paris-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931014659011834.arak-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.info:8880?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.164:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252150853.shiraz-prx-dnraact.info:8880?path=%23telegram+%F0%9F%8D%80+DailyV2ryDaily+V2ry&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.150:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953951955767727.london-prx-dnraact.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.118:80?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959501457215860.brussels-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.73:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.202:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959883052216726.zagreb-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410814.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929381453.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451238079.yasuj-drc-tusabl.info:8880?type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.133:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460374197.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653061122.qazvin-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.203:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928896969382988.madrid-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none&authority=Join---_T------_T&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.63:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221952467.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794/?type=tcp&encryption=none#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929750206966997.oslo-drc-dcrabj.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022058726038.birjand-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.79:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.178:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@45.12.150.98:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v7.ipforvetra.shop#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=&encryption=none&authority=/sinavm&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954614453560688.zagreb-prx-dnraact.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880?encryption=none&type=grpc&mode=gun&security=none#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959922651589488.bandar-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903726419.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366857370571.london-prx-dnraacq.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.75:8880?mode=gun&security=none&encryption=none&type=grpc&sni=#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950315458723899.kerman-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929378476.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.232:8880?security=none&encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969687851156468.rome-blkaft-aaax.info:8880?security=&sni=%F0%9F%94%92%20By%20EbraSha&type=grpc&encryption=none#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Los Angeles - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v4.ipforvetra.shop:80/?type=grpc&encryption=none&flow=#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852354160.paris-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.183.215:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.25:8880?security=&fp=chrome&type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933624655569356.dezful-drc-tusabx.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v8.ipforvetra.shop:80?encryption=none&security=none&sni=pqh29v8.ipforvetra.shop&alpn=&type=grpc&host=pqh29v8.ipforvetra.shop#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.205:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316596208.hamedan-drc-tusaas.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959542888735259.berlin-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&encryption=none#🇦🇲 AM - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964503850730101.prague-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880/?type=grpc&encryption=none&flow=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761653882504.gorgan-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655065548930.bandar-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950315458711931.kerman-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145569691.prague-drcn-aaaai.info:8880?authority=&encryption=none&mode=gun&security=none&serviceName=&type=grpc#🇫🇷 FR Aubervilliers - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952672249354674.belgrade-prx-dnraacs.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.98:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844927.esfahan-drc-tusaas.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.155:8880?mode=gun&security=none&encryption=none&authority=JoT&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.17:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.11.74:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Aubervilliers - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853360616.mashhad-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936603656983775.qazvin-drc-tusabz.info:8880?encryption=none&security=none&type=grpc&mode=gun#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366858946754.rome-prx-dnraacq.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903724777.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951257223808.copenhagen-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?type=tcp&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.99:8880?type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.198:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.4:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933151854965838.copenhagen-drc-tusabx.info:8880?encryption=none&security=none&type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?security=&type=grpc&encryption=none#🇬🇧 GB Coventry - megav.app
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.18.222:443?security=tls&encryption=none&sni=pqh27v5.hiddendom.shop&alpn=h2&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?encryption=none&type=grpc&path=/#🇺🇸 US Los Angeles - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.93:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1%2&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638963894053039483.madrid-blkaft-aaar.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.193:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840075.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.125:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949279865777517.brussels-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452707101.lahijan-prx-dnraact.info:8880?type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949279865779320.brussels-prx-dnraacr.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652473098.brussels-blkaft-aaao.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#🇱🇻 LV Riga - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938179859468758.zagreb-prx-dnraacl.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.5:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.195:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333052702008.malayer-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880/?type=grpc&amp;encryption=none&amp;flow=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@85.209.195.120:8880?type=grpc&path=/#🇺🇸 US Los Angeles - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.125:80?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.113:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903724238.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.174:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Aubervilliers - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964097652658866.lisbon-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880/?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&type=grpc&encryption=none&flow=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050125184.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?encryption=none&type=grpc&security=none#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903727461.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958100452009074.oslo-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.251:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?encryption=none&type=grpc&mode=gun&security=none#🇬🇧 GB - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452396935.arak-blkaft-aaar.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.144:8880?type=grpc&path=/#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950479860315993.shiraz-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965720991613536.ahvaz-drc-tusaas.info:8880?type=grpc&remarks=Unknown 499ms#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653056895.qazvin-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852348956.paris-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.86:8880?mode=gun&security=none&encryption=none&type=grpc&sni=#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950889657525756.tabriz-prx-dnraacr.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862862598.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412105.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&encryption=none&type=grpc&path=/#🇹🇷 TR Izmir - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.104:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958168852460018.helsinki-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?security=&type=grpc&encryption=none#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279966763.qazvin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954454858772863.belgrade-prx-dnraact.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.164:8880?type=grpc&path=/#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.136:8880?type=grpc#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.49:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.123:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950355063267992.qazvin-prx-dnraacr.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903726942.malayer-drc-tusaas.info:8880?path=%23telegram+%E2%98%82%EF%B8%8F+DailyV2ryDaily+V2ry&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&authority=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://923509aa-bfb0-4758-a5a1-a6c2d0468169@ef87bb2b.meti-e9q.pages.dev:443?encryption=none&type=ws&host=ef87bb2b.meti-e9q.pages.dev&path=%2Fck2vlelfdajoybac%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=ef87bb2b.meti-e9q.pages.dev#🇳🇱 NL - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959321651247960.budapest-blkaft-aaao.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342838285.esfahan-drc-tusaas.info:8880?security=&type=grpc&encryption=none#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252589849.dublin-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&type=grpc&mode=gun#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946131660460360.berlin-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.95:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?encryption=none&type=ws&path=%2F&security=none#🇱🇻 LV Riga - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022190781868.ahvaz-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.9:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452391081.arak-blkaft-aaar.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.100:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.214:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929368515.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.228:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655/?type=tcp&encryption=none&flow=#🇲🇰 MK Skopje - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.81:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970129452669909.budapest-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇨🇾 CY - megav.app
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&security=none&encryption=none&type=ws#🇱🇻 LV Riga - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958908853566182.paris-blkaft-aaao.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?security=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733853641176.athens-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.161:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733256111449.lisbon-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959499653459624.amsterdam-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221949310.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#🇽🇰 XK - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.87:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638976764967211989.gorgan-drcn-aaaae.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Aubervilliers - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960332451823112.lahijan-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342843836.esfahan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.18:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959107852436200.qazvin-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.15.197:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Aubervilliers - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656129533.malayer-drc-tusabu.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973401251724127.esfahan-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959877051877171.belgrade-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933534054736275.arak-drc-tusabx.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359338436.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935255461296821.paris-drc-tusabz.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949491062080162.prague-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US Los Angeles - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947302864712433.abadan-prx-dnraacq.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207614557.kish-drc-dcrabj.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.101:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.122:80?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314215960.dublin-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?mode=gun&security=none&encryption=none&authority=KANAL--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.37:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#🇳🇱 NL Amsterdam - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053210036.rome-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880/?type=grpc&encryption=none&flow=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953951955750783.london-prx-dnraact.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948683859352732.yasuj-prx-dnraacq.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.212:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960638051874642.london-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952926651942058.hamedan-prx-dnraacs.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819861250232.stockholm-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh26v4.ipforvetra.shop:80?host=pqh26v4.ipforvetra.shop&sni=pqh26v4.ipforvetra.shop&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.146:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://0f4f3a75-ae36-4992-8cb5-6638f45afcb2@216.133.148.215:36987?encryption=none&security=none&type=tcp&headerType=none#🇺🇸 US Los Angeles - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050130973.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?encryption=none&type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931857059451035.rome-drc-tusabw.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?type=grpc&path=/#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252149982.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.87:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407246.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903732166.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051246455.kish-drc-tusabl.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662014894.budapest-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://d4b15bf0-c48d-4ea3-b76c-076ec8ca177a@104.26.2.186:443?encryption=none&fp=firefox&mode=gun&pbk=r9xqYf3TXGXiuUiWewGsA2uMGgqC_WVZOn9WLojL10Q&security=reality&serviceName=nor.pzhabuur.link&sid=9d307375&sni=nor.pzhabuur.link&spx=%2F&type=grpc#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956164953841136.zagreb-prx-dnraacu.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?type=grpc&path=/#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452703138.lahijan-prx-dnraact.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956837451491545.lahijan-prx-dnraacu.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.68.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v1.hiddendom.shop#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653655787.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.107:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqf2v8.fyipdirect.shop:80?encryption=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.94:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060334925.warsaw-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960189051626910.gorgan-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954614453539980.zagreb-prx-dnraact.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966654853737260.dublin-blkaft-aaap.info:8880?security=&sni=%F0%9F%94%92%20By%20EbraSha&type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.228:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880/?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇲🇪 ME - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v7.ipforvetra.shop#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.125:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454180160.helsinki-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=</code><br/><br/><i#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967308972352607.mashhad-blkaft-aaau.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954616852867237.abadan-prx-dnraact.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314202375.dublin-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952489246667791.budapest-prx-dnraacs.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.96:8880?encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938161486112816.warsaw-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.145:8880?security=none&encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.249:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333654557931.neyshabur-blkaft-aaak.info:8880?type=grpc#🇳🇱 NL Meppel - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?security=none&type=grpc&path=/#🇺🇸 US Secaucus - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686406340.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733256101028.lisbon-drc-tusabu.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454168195.helsinki-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqf2v8.fyipdirect.shop:80?encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903726419.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952489246667791.budapest-prx-dnraacs.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936058895936284.budapest-drc-tusabz.info:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903728547.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB City of London - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903730131.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933693398093494.esfahan-drc-tusabx.info:8880?type=grpc#🇨🇾 CY - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950952062344940.kish-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853385893.mashhad-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958908853574874.paris-blkaft-aaao.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950899858887918.yasuj-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956218809805203.bandar-prx-dnraacu.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.75:8880?mode=gun&security=none&encryption=none&type=grpc&sni=#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.17:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.234:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v7.ipforvetra.shop#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060334925.warsaw-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959542888735259.berlin-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?security=none&type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.22:8880?type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.212:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.113:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.143:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.146:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958100452009074.oslo-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.18:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#🇹🇷 TR Istanbul - megav.app
+vless://b822c358-a4f6-43e4-94b7-7d8be09ddff5@176.9.123.216:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ui.zerooners.com#🇩🇪 DE Falkenstein - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359338436.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412105.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.101:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.164:8880?type=grpc&path=/#🇬🇧 GB City of London - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053208758.rome-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880/?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇲🇪 ME - megav.app
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@85.209.195.120:8880?type=grpc&path=/#🇺🇸 US Los Angeles - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.87:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958548654810191.arak-blkaft-aaaj.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853360616.mashhad-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929376530.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953400135884792.malayer-prx-dnraacs.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB City of London - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410814.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB City of London - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454168195.helsinki-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.104:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937994136550920.prague-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852348956.paris-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.136:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964983138648841.tabriz-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=none&encryption=none&type=grpc&path=/#🇳🇱 NL Meppel - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v7.ipforvetra.shop#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.107:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252589849.dublin-blkaft-aaax.info:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951257223808.copenhagen-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880?encryption=none&type=grpc&mode=gun&security=none#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960582852349799.paris-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842933.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.189:8880?security=none&encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733256111449.lisbon-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965901655649243.copenhagen-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.153:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.103:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954614453539980.zagreb-prx-dnraact.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://e28c47f0-d2bd-47c2-a443-2d3c05cee0ee@gorsee.store:12026?security=tls&encryption=none&sni=gorsee.store&type=tcp&headerType=none&path=%2f#🇱🇻 LV Riga - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959021371581893.neyshabur-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544307182.oslo-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933693398093494.esfahan-drc-tusabx.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://d4b15bf0-c48d-4ea3-b76c-076ec8ca177a@104.26.2.186:443?encryption=none&fp=firefox&mode=gun&pbk=r9xqYf3TXGXiuUiWewGsA2uMGgqC_WVZOn9WLojL10Q&security=reality&serviceName=nor.pzhabuur.link&sid=9d307375&sni=nor.pzhabuur.link&spx=%2F&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903726942.malayer-drc-tusaas.info:8880?path=%23telegram+%E2%98%82%EF%B8%8F+DailyV2ryDaily+V2ry&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#🇲🇾 MY Kuala Lumpur - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932647860113815.neyshabur-drc-tusabw.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950315458711931.kerman-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451228787.yasuj-drc-tusabl.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.37:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.15.197:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Aubervilliers - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955516921896793.berlin-prx-dnraacu.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958168852460018.helsinki-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452703138.lahijan-prx-dnraact.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959877051877171.belgrade-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.93:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1%2&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959009857.dezful-drc-tusabq.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.77:8880?type=grpc#🇲🇩 MD - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.122:80?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903717184.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.47:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452396935.arak-blkaft-aaar.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460374197.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973401251721246.esfahan-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇨🇾 CY - megav.app
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@45.12.150.98:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844927.esfahan-drc-tusaas.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947302860438160.zagreb-prx-dnraacq.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314202375.dublin-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931014659011834.arak-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366857370571.london-prx-dnraacq.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.251:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946367463915381.vienna-prx-dnraacq.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955005656284074.gorgan-prx-dnraact.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964097652658866.lisbon-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929368515.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955304452711968.lahijan-prx-dnraact.info:8880?mode=gun&security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.49:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.126:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.125:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686406796.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956218809805203.bandar-prx-dnraacu.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050130973.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342843836.esfahan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656129533.malayer-drc-tusabu.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.99:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.192:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903730131.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aabc.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896620.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.98:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959897452361280.arak-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952926651942058.hamedan-prx-dnraacs.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#🇩🇪 DE Frankfurt am Main - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316596208.hamedan-drc-tusaas.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252150853.shiraz-prx-dnraact.info:8880?path=%23telegram+%F0%9F%8D%80+DailyV2ryDaily+V2ry&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938179859468758.zagreb-prx-dnraacl.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?type=tcp&encryption=none#🇦🇲 AM - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451232006.yasuj-drc-tusabl.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.202:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937381606723301.brussels-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958908853574874.paris-blkaft-aaao.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.205:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944900760751746.hamedan-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964214452391081.arak-blkaft-aaar.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.91:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967308972352607.mashhad-blkaft-aaau.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v8.ipforvetra.shop:80?host=pqh30v8.ipforvetra.shop&sni=pqh30v8.ipforvetra.shop&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&authority=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929381453.rasht-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958100452010372.oslo-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022279961472.qazvin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.139:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.106:8880?mode=gun&security=none&encryption=none&type=grpc&sni=#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.169:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058844815.stockholm-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.112:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686409891.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.144:8880?type=grpc&path=/#🇬🇧 GB City of London - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.125:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930733853641176.athens-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.18.222:443?security=tls&encryption=none&sni=pqh27v5.hiddendom.shop&alpn=h2&type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.11.74:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Aubervilliers - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728921354880.dezful-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960189051628307.gorgan-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970074254357581.oslo-blkaft-aaax.info:8880?security=&sni=%F0%9F%94%92%20By%20EbraSha&type=grpc&encryption=none#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314215960.dublin-drc-tusabu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050125184.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959922651589488.bandar-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&encryption=none&type=grpc&path=/#🇹🇷 TR Izmir - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950952062344940.kish-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880/?type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853385893.mashhad-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973512850402267.kerman-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@104.238.190.155:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Aubervilliers - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.67:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928896969382988.madrid-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943425567574299.brussels-prx-dnraacp.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970074254358453.oslo-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933151854965838.copenhagen-drc-tusabx.info:8880?encryption=none&security=none&type=grpc#🇳🇱 NL Meppel - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038339966230.dublin-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.123:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?encryption=none&type=grpc&mode=gun&security=none#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949491062080162.prague-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US Los Angeles - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?type=grpc&path=/#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=&encryption=none&authority=Join---_T------_T&type=grpc#🇨🇾 CY - megav.app
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?type=tcp&encryption=none#🇨🇾 CY - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v7.ipforvetra.shop#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903732166.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903727461.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=none&encryption=none&type=grpc&path=/#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959499653459624.amsterdam-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.155:8880?mode=gun&security=none&encryption=none&authority=JoT&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.23:80?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958908853566182.paris-blkaft-aaao.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955432252142128.shiraz-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844263.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903729610.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949279865777517.brussels-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷 TR Izmir - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.235:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL Meppel - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965720991613536.ahvaz-drc-tusaas.info:8880?type=grpc&remarks=Unknown 499ms#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.3:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.9:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.161:8880?type=grpc&path=/#🇬🇧 GB City of London - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970129452669909.budapest-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880/?type=grpc&amp;encryption=none&amp;flow=#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.243:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929750206966997.oslo-drc-dcrabj.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638951859202353992.amsterdam-prx-dnraacs.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?encryption=none&type=grpc&mode=gun&security=none#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933534054736275.arak-drc-tusabx.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.244:8880?type=grpc#🇲🇩 MD - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.45:8880?type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?encryption=none&security=tls&sni=nkang2replace.airlineshoma.com&type=ws&path=%2F#🇸🇪 SE Spånga - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.94:8880?security=&type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180050776211.birjand-drc-tusabl.info:8880?encryption=none&security=none&type=grpc&mode=gun</pre><br/><br/>#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936603656983775.qazvin-drc-tusabz.info:8880?encryption=none&security=none&type=grpc&mode=gun#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661501484176.tabriz-drc-tusabz.info:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952672249354674.belgrade-prx-dnraacs.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.68:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?encryption=none&type=grpc&security=none#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.232:8880?security=none&encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959321651247960.budapest-blkaft-aaao.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454180160.helsinki-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686406340.lahijan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://bda9c538-7e4d-47ca-ae17-b74f5013f4e0@45.130.215.125:8443?encryption=none&security=tls&sni=gorsee.store&type=tcp&headerType=none#🇱🇻 LV Riga - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966654853737260.dublin-blkaft-aaap.info:8880?security=&sni=%F0%9F%94%92%20By%20EbraSha&type=grpc&encryption=none#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.92:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950899858887918.yasuj-prx-dnraacr.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638854250044096905.prague-drc-dcrabd.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954454857029707.dublin-prx-dnraact.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959339452838661.ahvaz-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?security=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053210036.rome-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333054354984.mashhad-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903724238.malayer-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.95:8880?encryption=none&security=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960638051874642.london-blkaft-aaap.info:8880?encryption=none&security=none&type=grpc#🇨🇾 CY - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?encryption=none&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862862598.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&path=/#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.186:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761653882504.gorgan-blkaft-aaaj.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.68.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v1.hiddendom.shop#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959321651239689.budapest-blkaft-aaao.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇺🇸 US Secaucus - megav.app
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#🇱🇻 LV Riga - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946131660460360.berlin-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959883052216726.zagreb-blkaft-aaak.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958548053549892.abadan-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Aubervilliers - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959107852436200.qazvin-blkaft-aaaj.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=&encryption=none&type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975302281795.helsinki-drc-tusabu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?encryption=none&type=ws&path=%2F&security=none#🇱🇻 LV Riga - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?encryption=none&type=grpc&path=/#🇺🇸 US Secaucus - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953951955750783.london-prx-dnraact.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=none&encryption=none&fp=chrome&type=grpc&path=/#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451238079.yasuj-drc-tusabl.info:8880?type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333052679850.malayer-blkaft-aaak.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638956837451491545.lahijan-prx-dnraacu.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&path=/#🇱🇻 LV Riga - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?mode=gun&security=none&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v4.ipforvetra.shop:80/?type=grpc&encryption=none&flow=#🇺🇸 US Secaucus - megav.app
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.249:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?security=none&encryption=none&type=grpc&path=/#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316594418.hamedan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964503850730101.prague-blkaft-aaap.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.81:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇹🇷 TR Izmir - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958853652470641.brussels-blkaft-aaao.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050129620.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=&encryption=none&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051246455.kish-drc-tusabl.info:8880?type=grpc#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.86:8880?mode=gun&security=none&encryption=none&type=grpc&sni=#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL Meppel - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955951255889101.oslo-prx-dnraacu.info:8880?security=&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955005051012554.dezful-prx-dnraact.info:8880?type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638972921472573017.abadan-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.183:8880?security=none&encryption=none&type=grpc&path=/@V2ray_confing33/#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.214:8880?encryption=none&security=none&type=grpc#🇧🇬 BG - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.62:8880?encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.94:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&type=grpc#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686405389.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950889657525756.tabriz-prx-dnraacr.info:8880?type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?security=none&encryption=none&type=grpc&path=/#🇲🇩 MD - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.161:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#🇨🇾 CY - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938161486112816.warsaw-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc#🇫🇷 FR Paris - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342842022.esfahan-drc-tusaas.info:8880?type=grpc#🇬🇧 GB Coventry - megav.app
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=none&encryption=none&type=grpc&path=/#🇫🇷 FR Paris - megav.app
+vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460?security=&encryption=none&host=PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#🇩🇪 DE Nuremberg - megav.app
